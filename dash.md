@@ -19,9 +19,8 @@ The Bot Management Interface offers a streamlined way to view and control your b
 
 ## 1. Bot List Overview
 
-When you access the bot management interface, you'll see a comprehensive list of all your bots. Each bot is represented with a **Telegram icon** followed by its name. The bots are listed in a clear, organized manner, allowing you to easily navigate between them. Additionally, each bot name is accompanied by a **status indicator** that informs you about the bot's current state, helping you keep track of which bots are active or need attention.
+When you access the bot management interface, you'll see a comprehensive list of all your bots. The bots are listed in a clear, organized manner, allowing you to easily navigate between them. Additionally, each bot name is accompanied by a **status indicator** that informs you about the bot's current state, helping you keep track of which bots are active or need attention.
 
-- **Telegram Icon**: Indicates that the bot is linked to Telegram and identifies its type.
 - **Bot Name**: Displays the name of each bot. Tap on a bot to access its detailed settings.
 
 ---
